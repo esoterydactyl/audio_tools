@@ -3,6 +3,7 @@
 # Script by: @esoterydactyl
 # Ver: 1.1.1
 # 8/18/2025
+# This is a handy script for normalizing, trimming, and correctly formatting samples for drums.
 
 check_sox() {
     if ! command -v sox &> /dev/null
